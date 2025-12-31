@@ -164,8 +164,7 @@ Tránh việc AI tự “đoán nghiệp vụ”
 Kiểm soát chất lượng thiết kế ngay từ đầu
 
 2. Các bước thực hiện
-Bước 1: Phân tích & đóng băng vấn đề
-
+Bước 1: Phân tích 
 Sử dụng Copilot Chat để phân tích code
 
 Không chỉnh sửa code ở bước này
@@ -176,7 +175,7 @@ Bước 2: Viết SPEC
 
 Xác định rõ domain và trách nhiệm
 
-Tách domain logic khỏi hạ tầng
+Tách domain logic
 
 Định nghĩa yêu cầu phi chức năng (testability, maintainability)
 
